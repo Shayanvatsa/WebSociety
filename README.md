@@ -33,6 +33,6 @@ This tool is a simple Steganography application built using Streamlit. It allows
    ```bash
    pip install streamlit Pillow stegano
 
-   ### Run the Streamlit app:
+### Run the Streamlit app:
 ```bash
 streamlit run your_app.py

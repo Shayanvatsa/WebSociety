@@ -30,7 +30,7 @@ This tool is a simple Steganography application built using Streamlit. It allows
 
 ## How to Run
 1. Install the required packages:
-   
+   ```bash
    pip install streamlit Pillow stegano
 
    ### Run the Streamlit app:

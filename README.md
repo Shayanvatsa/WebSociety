@@ -34,6 +34,5 @@ This tool is a simple Steganography application built using Streamlit. It allows
    pip install streamlit Pillow stegano
 
    ### Run the Streamlit app:
-
-   streamlit run your_app.py
-
+```bash
+streamlit run your_app.py

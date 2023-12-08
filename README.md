@@ -5,7 +5,7 @@ This tool is a simple Steganography application built using Streamlit. It allows
 
 ## Tools Supported
 - :rainbow: [Nmap](#nmap)
-- :lock: **Steganography**
+- :lock: [Steganography](#steganography)
 - :key: [Hashcat](#hashcat)
 
 ## Usage
